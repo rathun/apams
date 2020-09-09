@@ -1,0 +1,6 @@
+
+# HTID:14498151: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:14498151:
+ Header set Access-Control-Allow-Origin "*"
+ php_value session.auto_start 1
